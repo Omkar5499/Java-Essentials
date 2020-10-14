@@ -1,0 +1,69 @@
+Initiative:
+
+Enter Avenger Name: Thor Odison
+Enter the Power: Thunder Manipulation
+Enter the Weapon: Mjolnir
+Enter the Planet: Asgard
+Enter the age: 1500
+
+Enter Avenger Name: Iron Man
+Enter the Power: Genius Level Intellect
+Enter the Weapon: Iron Suit
+Enter the Planet: Earth
+Enter the age: 45
+
+Enter Avenger Name: Captain America
+Enter the Power: SuperHuman Ability
+Enter the Weapon: Vibranium Shield
+Enter the Planet: Earth
+Enter the age: 90
+
+Enter Avenger Name: Doctor Strange
+Enter the Power: Mystic Art
+Enter the Weapon: Eye of Agamotto
+Enter the Planet: Earth
+Enter the age: 39
+
+Enter Avenger Name: Spider Man
+Enter the Power: Spider Sense
+Enter the Weapon: Web Shooters
+Enter the Planet: Earth
+Enter the age: 25
+
+Assemble...
+
+Avenger: Thor Odison
+Power: Thunder Manipulation
+Weapon: Mjolnir
+Age: 1500
+Planet: Asgard
+
+
+Avenger: Iron Man
+Power: Genius Level Intellect
+Weapon: Iron Suit
+Age: 45
+Planet: Earth
+
+
+Avenger: Captain America
+Power: SuperHuman Ability
+Weapon: Vibranium Shield
+Age: 90
+Planet: Earth
+
+
+Avenger: Doctor Strange
+Power: Mystic Art
+Weapon: Eye of Agamotto
+Age: 39
+Planet: Earth
+
+
+Avenger: Spider Man
+Power: Spider Sense
+Weapon: Web Shooters
+Age: 25
+Planet: Earth
+
+Process finished with exit code 0
